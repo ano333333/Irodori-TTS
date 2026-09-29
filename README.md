@@ -48,6 +48,9 @@ Audio is represented as continuous latent sequences via the codec configured by 
 
 ## Installation
 
+For NixOS with an AMD Radeon GPU, see the [Nix flake / ROCm setup guide](docs/nixos-rocm.md)
+for a reproducible environment and a v4-Large VoiceDesign command.
+
 ```bash
 git clone https://github.com/Aratako/Irodori-TTS.git
 cd Irodori-TTS
